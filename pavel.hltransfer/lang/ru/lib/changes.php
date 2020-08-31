@@ -1,0 +1,7 @@
+<?
+$MESS['PAVEL_HLTRANSFER_ID'] = 'ID';
+$MESS['PAVEL_HLTRANSFER_HL_TYPE'] = 'Тип HL блока';
+$MESS['PAVEL_HLTRANSFER_ELEMENT_ID'] = 'ID элемента HL блока';
+$MESS['PAVEL_HLTRANSFER_ELEMENT_FIELDS'] = 'Поля элемента HL блока';
+$MESS['PAVEL_HLTRANSFER_DELETED'] = 'Удален';
+$MESS['PAVEL_HLTRANSFER_DATE_UPDATE'] = 'Дата изменения';
